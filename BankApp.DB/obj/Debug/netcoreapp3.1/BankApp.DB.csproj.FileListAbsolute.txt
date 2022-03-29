@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\bin\Debug\netcoreapp3.1\BankApp.DB.deps.json
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\bin\Debug\netcoreapp3.1\BankApp.DB.runtimeconfig.json
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\bin\Debug\netcoreapp3.1\BankApp.DB.runtimeconfig.dev.json
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\bin\Debug\netcoreapp3.1\BankApp.DB.dll
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\bin\Debug\netcoreapp3.1\BankApp.DB.pdb
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\obj\Debug\netcoreapp3.1\BankApp.DB.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\obj\Debug\netcoreapp3.1\BankApp.DB.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\obj\Debug\netcoreapp3.1\BankApp.DB.AssemblyInfo.cs
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\obj\Debug\netcoreapp3.1\BankApp.DB.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\obj\Debug\netcoreapp3.1\BankApp.DB.dll
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\obj\Debug\netcoreapp3.1\BankApp.DB.pdb
+C:\Users\user\Desktop\BankProject\BankApp.WebApi\BankApp.DB\obj\Debug\netcoreapp3.1\BankApp.DB.genruntimeconfig.cache
